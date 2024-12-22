@@ -1,1 +1,1 @@
-# lunarlander
+A SystemVerilog-based Arithmetic Logic Unit (ALU) designed to simulate critical computations for a lunar lander, including altitude, velocity, and fuel tracking. Features adder/subtractor modules, control logic, and memory subsystems.
